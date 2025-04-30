@@ -1,0 +1,115 @@
+Company,URL,Sentiment,Polarity Score
+ASML,https://www.euronews.com/business/2025/01/02/will-computer-chip-maker-asml-see-a-change-of-fortunes-in-2025,Extraction Failed,
+ASML,https://markets.businessinsider.com/news/stocks/golden-goose-asml-in-danger-as-ai-boom-collides-with-trade-tariffs-1034599031,Extraction Failed,
+ASML,https://ourbrand.asml.com/m/4911d1a455422b3f/original/Presentation-Investor-Relations-Q1-2025.pdf,Insufficient Content,
+ASML,https://www.scmp.com/news/china/science/article/3308204/former-asml-head-scientist-lin-nan-drives-chinas-latest-euv-breakthrough,Positive,0.2666164117
+ASML,https://www.scmp.com/news/china/diplomacy/article/3306481/dutch-exports-china-tumble-chip-machine-giant-asml-clears-back-orders-amid-us-bans,Neutral,0.098875
+ASML,https://www.reuters.com/technology/dutch-chipmaker-asml-warns-tough-2025-ahead-2024-04-17/,Extraction Failed,
+ASML,https://www.cnbc.com/2024/04/17/dutch-chip-giant-asml-reports-27percent-drop-in-net-sales.html,Extraction Failed,
+ASML,https://www.wsj.com/articles/asml-reports-weaker-than-expected-q1-2025-earnings-as-chip-demand-softens-58d21a61,Extraction Failed,
+ASML,https://asia.nikkei.com/Business/Tech/Semiconductors/ASML-sees-weakness-in-China-demand-amid-ongoing-tech-controls,Extraction Failed,
+ASML,https://www.bloomberg.com/news/articles/2025-04-18/asml-faces-longer-challenges-in-china-us-tech-battle,Extraction Failed,
+ASML,https://www.investing.com/news/company-news/asml-q1-2025-slides-strong-margins-amid-shifting-regional-demand-patterns-93CH-3987188,Extraction Failed,
+ASML,https://www.euronews.com/business/2025/01/02/will-computer-chip-maker-asml-see-a-change-of-fortunes-in-2025,Neutral,0.01062934159
+ASML,https://markets.businessinsider.com/news/stocks/golden-goose-asml-in-danger-as-ai-boom-collides-with-trade-tariffs-1034599031,Positive,0.1275430496
+ASML,https://www.reuters.com/technology/dutch-chipmaker-asml-warns-tough-2025-ahead-2024-04-17/,Extraction Failed,
+ASML,https://www.cnbc.com/2024/04/17/dutch-chip-giant-asml-reports-27percent-drop-in-net-sales.html,Extraction Failed,
+ASML,https://www.wsj.com/articles/asml-reports-weaker-than-expected-q1-2025-earnings-as-chip-demand-softens-58d21a61,Extraction Failed,
+ASML,https://asia.nikkei.com/Business/Tech/Semiconductors/ASML-sees-weakness-in-China-demand-amid-ongoing-tech-controls,Extraction Failed,
+ASML,https://www.bloomberg.com/news/articles/2025-04-18/asml-faces-longer-challenges-in-china-us-tech-battle,Extraction Failed,
+ASML,https://www.scmp.com/news/china/science/article/3308204/former-asml-head-scientist-lin-nan-drives-chinas-latest-euv-breakthrough,Positive,0.2666164117
+ASML,https://www.youtube.com/watch?v=UvnhLZi-f_A,Positive,0.223109063
+ASML,https://www.youtube.com/watch?v=dlrAzENPNRw,Positive,0.05751386202
+ASML,https://www.youtube.com/watch?v=jt7atCIoV8g,Positive,0.1416976705
+Foxconn,https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1562,Positive,0.1404164382
+Foxconn,https://mexicobusiness.news/automotive/news/foxconn-drives-growth-semiconductors-ai-4q24,Positive,0.1904978355
+Foxconn,https://spectrumlocalnews.com/us/national/technology/2025/04/14/nvidia-ai-chips-u-s--manufacturing-semiconductor-tariffs,Extraction Failed,
+Foxconn,https://restofworld.org/2025/china-foxconn-factoriesfoxconn-stops-sending-chinese-workers-to-india-iphone-factories/,Positive,0.1620011806
+Foxconn,https://www.foxconn.com/en-us/press-center/media-center?category=factoriesOverseas,Neutral,0
+Foxconn,https://www.asiatechreview.com/p/china-obstructs-indias-manufacturing,Neutral,0.09285778624
+Foxconn,https://www.scmp.com/tech/big-tech/article/3306471/chinas-largest-iphone-factory-resumes-hiring-after-trump-spares-electronics-tariffs,Neutral,0.0678326373
+Foxconn,https://www.nytimes.com/2024/12/26/business/foxconn-apple-texas-expansion.html,Neutral,-0.008533060011
+Foxconn,https://markets.businessinsider.com/news/stocks/foxconn-shines-in-tech-slump-but-tariff-threats-loom-1034553255,Positive,0.1613434454
+Foxconn,https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1554,Positive,0.1886358128
+Foxconn,https://forums.appleinsider.com/discussion/237901/tensions-escalate-as-china-arrests-foxconn-staff-at-key-apple-factory,Neutral,0.07561237374
+Foxconn,https://www.ainvest.com/news/taiwan-s-foxconn-navigating-tariffs-with-global-manufacturing-24111010f4939e3ac7fbee87/,Positive,0.1361405724
+Foxconn,https://restofworld.org/2025/china-foxconn-factoriesfoxconn-stops-sending-chinese-workers-to-india-iphone-factories/,Positive,0.1620011806
+Foxconn,https://www.asiatechreview.com/p/china-obstructs-indias-manufacturing,Neutral,0.09285778624
+Foxconn,https://www.scmp.com/tech/big-tech/article/3306471/chinas-largest-iphone-factory-resumes-hiring-after-trump-spares-electronics-tariffs,Neutral,0.0678326373
+Foxconn,https://markets.businessinsider.com/news/stocks/foxconn-shines-in-tech-slump-but-tariff-threats-loom-1034553255,Positive,0.1613434454
+Foxconn,https://mexicobusiness.news/automotive/news/foxconn-drives-growth-semiconductors-ai-4q24,Positive,0.1904978355
+Foxconn,https://www.youtube.com/watch?v=g0K9hfd570o,Neutral,0.00334038055
+Foxconn,https://www.youtube.com/watch?v=hwBjwwIPyzk,Positive,0.06312531242
+Samsung,https://semiconductor.samsung.com/foundry/manufacturing/,Extraction Failed,
+Samsung,https://semiconsam.substack.com/p/samsung-securities-2025-semiconductor,Neutral,0.0267882854
+Samsung,https://koreajoongangdaily.joins.com/2021/12/29/business/tech/Samsung-Electronics-Xian/20211229181523222.html,Extraction Failed,
+Samsung,https://news.samsung.com/global/update-on-the-situation-in-xian-china,Positive,0.495
+Samsung,https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2024-results,Neutral,0.04095296247
+Samsung,https://www.supplychainbrain.com/articles/38732-samsung-delays-production-at-new-us-factory-to-2025-daily-says,Positive,0.1203588822
+Samsung,https://semiwiki.com/forum/threads/news-samsung-reportedly-reviews-chip-business-considers-halting-pyeongtaek-and-u-s-taylor-investments.22248/,Positive,0.1472222222
+Samsung,https://www.reportlinker.com/article/9746,Extraction Failed,
+Samsung,https://semiconductor.samsung.com/sustainability/sustainable-supply-chain/,Neutral,0.007572429534
+Samsung,https://www.digitimes.com/news/a20230823PD200/samsung-supplier-south-korea-ict-manufacturing.html,Negative,-0.1347274433
+Samsung,https://opportunityaustin.com/samsung-pouring-45b-into-austin-area-one-of-largest-deals-in-us-history/,Positive,0.2295017483
+Samsung,https://www.reuters.com/technology/samsung-electronics-ceo-says-it-will-pursue-meaningful-ma-this-year-2025-03-19/,Neutral,-0.03273141572
+Samsung,https://www.taipeitimes.com/News/biz/archives/2025/03/18/2003833594,Neutral,0.01311145596
+Samsung,https://www.tomshardware.com/news/samsung-electronics-geopolitical-headwinds-semiconductor-expansion,Extraction Failed,
+Samsung,https://www.reuters.com/technology/samsung-electronics-ceo-says-it-will-pursue-meaningful-ma-this-year-2025-03-19/,Neutral,-0.03273141572
+Samsung,https://www.taipeitimes.com/News/biz/archives/2025/03/18/2003833594,Neutral,0.01311145596
+Samsung,https://www.supplychainbrain.com/articles/38732-samsung-delays-production-at-new-us-factory-to-2025-daily-says,Positive,0.1203588822
+Samsung,https://www.digitimes.com/news/a20230823PD200/samsung-supplier-south-korea-ict-manufacturing.html,Negative,-0.1347274433
+Samsung,https://koreajoongangdaily.joins.com/2021/12/29/business/tech/Samsung-Electronics-Xian/20211229181523222.html,Neutral,0.005921052632
+Samsung,https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2024-results,Neutral,0.04095296247
+Samsung,https://opportunityaustin.com/samsung-pouring-45b-into-austin-area-one-of-largest-deals-in-us-history/,Positive,0.2295017483
+Samsung,https://www.youtube.com/watch?v=Zq8S3Z_tFjM,Positive,0.0736049876
+TSMC,https://bisi.org.uk/reports/tsmcs-us-expansion-economic-strategy-or-political-bargaining-chip,Extraction Failed,
+TSMC,https://www.ai-supremacy.com/p/tsmc-role-in-the-global-ai-and-geopolitical-future,Positive,0.106875
+TSMC,https://www.reuters.com/technology/tsmc-q1-profit-beats-views-robust-chip-demand-2025-04-18/,Extraction Failed,
+TSMC,https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-to-expand-U.S.-Arizona-facility-amid-geopolitical-pressures,Extraction Failed,
+TSMC,https://www.wsj.com/articles/tsmc-plans-massive-investment-in-u-s-manufacturing-amid-supply-chain-reshuffle-2025-04-15,Extraction Failed,
+TSMC,https://www.cnbc.com/2025/04/17/tsmc-chip-prices-rising-10percent-on-u-s.-geopolitical-tensions.html,Extraction Failed,
+TSMC,https://www.semiwiki.com/semiconductor-manufacturers/tsmc/330822-tsmcs-future-strategy-where-america-where-asia/,Neutral,0
+TSMC,https://www.bloomberg.com/news/articles/2025-04-14/tsmc-caught-between-u-s-and-china-in-tech-cold-war,Extraction Failed,
+TSMC,https://asia.nikkei.com/Business/Companies/TSMC-executives-discuss-us-investments-challenges-and-opportunities,Extraction Failed,
+TSMC,https://www.cnbc.com/2025/03/28/tsmc-strategic-supply-chain-diversification-strategy-amid-tensions.html,Extraction Failed,
+TSMC,https://www.forbes.com/sites/forbestechcouncil/2025/04/11/tsmc-s-role-in-the-global-tech-battle-between-china-and-the-us/,Extraction Failed,
+TSMC,https://www.tomshardware.com/tech-industry/semiconductors/taiwans-government-strengthens-silicon-shield-restricts-exports-of-tsmcs-most-advanced-process-technologies,Positive,0.1496480967
+TSMC,https://researchcentre.trtworld.com/featured/taiwans-chip-dilemma-navigating-the-threat-of-invasion-and-the-strain-of-diversification/,Positive,0.1245099432
+TSMC,https://www.nasdaq.com/articles/taiwan-semiconductor-stock-nyse-tsm-do-geopolitical-risks-outweigh-positives,Positive,0.1966546484
+TSMC,https://arstechnica.com/tech-policy/2025/04/trump-cant-keep-china-from-getting-ai-chips-tsmc-suggests/,Positive,0.130952381
+TSMC,https://moderndiplomacy.eu/2025/03/08/the-geopolitics-of-semiconductor-supply-chains/,Neutral,0.08843778696
+TSMC,https://www.bloomberg.com/news/articles/2025-04-14/tsmc-caught-between-u-s-and-china-in-tech-cold-war,Extraction Failed,
+TSMC,https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-to-expand-U.S.-Arizona-facility-amid-geopolitical-pressures,Extraction Failed,
+TSMC,https://www.forbes.com/sites/forbestechcouncil/2025/04/11/tsmc-s-role-in-the-global-tech-battle-between-china-and-the-us/,Extraction Failed,
+TSMC,https://www.cnbc.com/2025/04/17/tsmc-chip-prices-rising-10percent-on-u-s.-geopolitical-tensions.html,Extraction Failed,
+TSMC,https://www.supplychainbrain.com/articles/40256-watch-how-are-china-taiwan-tensions-threatening-global-semiconductor-supply,Neutral,-0.0007407407407
+TSMC,https://youtu.be/WJd5a10WESA?t=303,Positive,0.1946296296
+TSMC,https://www.youtube.com/watch?v=WHat_LYrpQE,Positive,0.187452053
+External,https://www.semiconductors.org/sia-applauds-tsmcs-expanded-investment-in-u-s-semiconductor-manufacturing/,Positive,0.2793244949
+External,https://www.supplychainbrain.com/articles/40256-watch-how-are-china-taiwan-tensions-threatening-global-semiconductor-supply,Neutral,-0.0007407407407
+External,https://www.linkedin.com/pulse/global-tariffs-reshape-semiconductor-industry-2025-impact-varun-goyal-63t9c,Negative,-0.08333333333
+External,https://www.nytimes.com/2025/04/16/business/china-taiwan-tariffs-chips.html,Negative,-0.25
+External,https://www.ainvest.com/news/navigating-geopolitical-risks-semiconductor-industry-strategies-investors-2504/,Positive,0.1589516129
+External,https://www.linkedin.com/pulse/2025-semiconductor-industry-trends-resurgence-future-shayantani-ad9ac,Positive,0.140816005
+External,https://www.ainvest.com/news/asml-q1-2025-results-reflect-industry-challenges-strategic-growth-focus-2504/,Neutral,0.068125
+External,https://www.analyse.asia/the-china-taiwan-tech-giants-fragile-supply-chain-with-tim-culpan/,Neutral,0.0469761171
+External,https://procurementpro.com/9-key-threats-to-the-semiconductor-supply-chain/,Neutral,0.09953981733
+External,https://www.sourcengine.com/blog/semiconductor-industry-news,Positive,0.1107870841
+External,https://moderndiplomacy.eu/2025/03/08/the-geopolitics-of-semiconductor-supply-chains/,Neutral,0.08843778696
+External,https://www.sdcexec.com/sourcing-procurement/manufacturing/article/22918774/a2-global-electronics-what-to-expect-in-the-2025-semiconductor-supply-chain,Positive,0.186804534
+External,https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html,Neutral,0.0414714065
+External,https://www.sciencedirect.com/science/article/abs/pii/S0308596125000485,Extraction Failed,
+External,https://manufacturing-today.com/news/how-the-us-china-tech-tensions-are-reshaping-the-semiconductor-industry/,Neutral,0.06951991191
+External,https://manufacturing-today.com/news/how-taiwans-semiconductor-industry-prepares-for-a-potential-chinese-invasion/,Neutral,0.08833268025
+External,https://foreignpolicy.com/2021/02/16/semiconductors-us-china-taiwan-technology-innovation-competition/,Neutral,0.0624291997
+External,https://tdhj.org/blog/post/geopolitics-technology-taiwan/,Neutral,0.09714806649
+External,https://globaltaiwan.org/2025/03/how-taiwans-chip-industry-navigates-us-industrial-policy-and-export-controls/,Neutral,0.07058037585
+External,https://www.citigroup.com/global/insights/the-u-s-china-chip-war-who-dares-to-win,Neutral,0.03106868132
+External,https://www.zurich.com/commercial-insurance/sustainability-and-insights/commercial-insurance-risk-insights/what-lies-ahead-for-the-geopolitics-of-semiconductors,Neutral,0.02224902216
+External,https://mexicobusiness.news/cloudanddata/news/mexico-aims-lead-global-semiconductor-production-2025,Neutral,0.06515151515
+External,https://www.chinatalk.media/p/how-taiwan-sees-the-chip-war,Positive,0.2036249347
+External,https://kleanindustries.com/insights/market-analysis-reports/insights-market-analysis-reports-china-rare-earth-export-ban-impact-tech-defense/,Extraction Failed,
+External,https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions,Extraction Failed,
+External,https://www.youtube.com/watch?v=bTaXzHc5N3I,Neutral,0.04504914913
+External,https://www.youtube.com/watch?v=foYWzdvajvo,Positive,0.2154634897
+External,https://www.youtube.com/watch?v=3mf2rSWjD1k,Positive,0.1812721219

@@ -1,0 +1,114 @@
+URL	Company	
+https://semiconductor.samsung.com/foundry/manufacturing/ 	Samsung 	
+https://semiconsam.substack.com/p/samsung-securities-2025-semiconductor	Samsung 	
+https://koreajoongangdaily.joins.com/2021/12/29/business/tech/Samsung-Electronics-Xian/20211229181523222.html 	Samsung 	
+https://news.samsung.com/global/update-on-the-situation-in-xian-china   	Samsung 	
+https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2024-results 	Samsung 	
+https://www.supplychainbrain.com/articles/38732-samsung-delays-production-at-new-us-factory-to-2025-daily-says 	Samsung 	
+https://semiwiki.com/forum/threads/news-samsung-reportedly-reviews-chip-business-considers-halting-pyeongtaek-and-u-s-taylor-investments.22248/	Samsung 	
+https://www.reportlinker.com/article/9746	Samsung 	
+https://semiconductor.samsung.com/sustainability/sustainable-supply-chain/	Samsung 	
+https://www.digitimes.com/news/a20230823PD200/samsung-supplier-south-korea-ict-manufacturing.html	Samsung 	
+https://opportunityaustin.com/samsung-pouring-45b-into-austin-area-one-of-largest-deals-in-us-history/	Samsung 	
+https://www.reuters.com/technology/samsung-electronics-ceo-says-it-will-pursue-meaningful-ma-this-year-2025-03-19/	Samsung 	
+https://www.taipeitimes.com/News/biz/archives/2025/03/18/2003833594	Samsung 	
+https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1562	Foxconn	
+https://mexicobusiness.news/automotive/news/foxconn-drives-growth-semiconductors-ai-4q24	Foxconn	
+https://spectrumlocalnews.com/us/national/technology/2025/04/14/nvidia-ai-chips-u-s--manufacturing-semiconductor-tariffs 	Foxconn	
+https://restofworld.org/2025/china-foxconn-factoriesfoxconn-stops-sending-chinese-workers-to-india-iphone-factories/	Foxconn	
+https://www.foxconn.com/en-us/press-center/media-center?category=factoriesOverseas 	Foxconn	
+https://www.asiatechreview.com/p/china-obstructs-indias-manufacturing	Foxconn	
+https://www.scmp.com/tech/big-tech/article/3306471/chinas-largest-iphone-factory-resumes-hiring-after-trump-spares-electronics-tariffs	Foxconn	
+https://www.nytimes.com/2024/12/26/business/foxconn-apple-texas-expansion.html	Foxconn	
+https://markets.businessinsider.com/news/stocks/foxconn-shines-in-tech-slump-but-tariff-threats-loom-1034553255	Foxconn	
+https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1554	Foxconn	
+https://www.euronews.com/business/2025/01/02/will-computer-chip-maker-asml-see-a-change-of-fortunes-in-2025 	ASML	
+https://markets.businessinsider.com/news/stocks/golden-goose-asml-in-danger-as-ai-boom-collides-with-trade-tariffs-1034599031 	ASML 	
+https://ourbrand.asml.com/m/4911d1a455422b3f/original/Presentation-Investor-Relations-Q1-2025.pdf	ASML 	
+https://www.scmp.com/news/china/science/article/3308204/former-asml-head-scientist-lin-nan-drives-chinas-latest-euv-breakthrough	ASML 	
+https://www.scmp.com/news/china/diplomacy/article/3306481/dutch-exports-china-tumble-chip-machine-giant-asml-clears-back-orders-amid-us-bans	ASML 	
+https://www.reuters.com/technology/dutch-chipmaker-asml-warns-tough-2025-ahead-2024-04-17/	ASML	
+https://www.cnbc.com/2024/04/17/dutch-chip-giant-asml-reports-27percent-drop-in-net-sales.html	ASML	
+https://www.wsj.com/articles/asml-reports-weaker-than-expected-q1-2025-earnings-as-chip-demand-softens-58d21a61	ASML	
+https://asia.nikkei.com/Business/Tech/Semiconductors/ASML-sees-weakness-in-China-demand-amid-ongoing-tech-controls	ASML	
+https://www.bloomberg.com/news/articles/2025-04-18/asml-faces-longer-challenges-in-china-us-tech-battle	ASML 	
+https://www.investing.com/news/company-news/asml-q1-2025-slides-strong-margins-amid-shifting-regional-demand-patterns-93CH-3987188	ASML 	
+https://www.onesafe.io/blog/nvidia-ai-dominance-geopolitical-tensions-fintech-disruption  	NVIDIA 	
+https://manufacturing-today.com/news/nvidia-to-invest-billions-in-u-s-manufacturing-over-four-years/ 	NVIDIA 	
+https://www.ainvest.com/news/nvidia-5-5-billion-charge-crossroads-geopolitics-tech-dominance-2504/	NVIDIA 	
+https://www.supplychainbrain.com/articles/41404-nvidia-bets-on-us-as-global-chip-race-heats-up	NVIDIA 	
+https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/	NVIDIA 	
+https://www.investopedia.com/nvidia-considers-massive-us-supply-chain-expansion-report-says-11700284	NVIDIA 	
+https://intelligence.supplyframe.com/nvidia-reshaping-semiconductor-supply-chain/	NVIDIA 	
+https://www.forbes.com/sites/greatspeculations/2024/02/28/with-a-2-trillion-valuation-what-are-the-risks-for-nvidia-stock/	NVIDIA 	
+https://brandfinance.com/press-releases/nvidia-continues-to-dominate-global-semiconductor-sector-as-most-valuable-strongest-and-fastest-growing-brand	NVIDIA 	
+https://www.ainvest.com/news/nvidia-slide-reflects-broader-tech-geopolitics-investors-2504/	NVIDIA 	
+https://www.microchipusa.com/industry-news/us-tariffs-on-taiwan-semiconductors--a-strategic-analysis 	NVIDIA 	
+https://aviation.direct/en/embraer-setzt-auf-rekordlieferungen-ziele-fuer-2025-und-strategische-expansion 	Embraer	
+https://www.library.hbs.edu/working-knowledge/from-emerging-economies-to-the-global-market-the-case-of-embraer	Embraer	
+https://embraer.com/global/en/news?slug=1207543-embraer-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1q24	Embraer	
+https://embraer.com/global/en/9230-strategy-to-grow	Embraer	
+http://embraer.com/global/en/climate-strategy	Embraer	
+https://embraer.com/global/en/news%E2%80%A6?slug=1207543-embraer-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1q24	Embraer	
+https://embraer.com/global/en/news?slug=1206926-embraers-new-china-market-outlook-predicts-regional-aircraft-to-lead-the-way-in-the-post-epidemic-era 	Embraer	
+https://www.flightglobal.com/fixed-wing/embraer-sees-heightened-c-390-demand-amid-geopolitical-tensions/148899.article	Embraer	
+https://www.researchandmarkets.com/reports/6050060/embraer-s-a-strategy-playbook-strategy	Embraer	
+https://www.reuters.com/business/aerospace-defense/brazils-embraer-sees-higher-demand-defense-aircraft-amid-global-tensions-2024-12-20/	Embraer	
+https://www.aerotime.aero/articles/embraer-plans-to-expand-defense-and-civil-aviation-markets-2025	Embraer	
+https://bisi.org.uk/reports/tsmcs-us-expansion-economic-strategy-or-political-bargaining-chip 	TSMC 	
+https://www.ai-supremacy.com/p/tsmc-role-in-the-global-ai-and-geopolitical-future	TSMC 	
+https://www.reuters.com/technology/tsmc-q1-profit-beats-views-robust-chip-demand-2025-04-18/	TSMC	
+https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-to-expand-U.S.-Arizona-facility-amid-geopolitical-pressures	TSMC	
+https://www.wsj.com/articles/tsmc-plans-massive-investment-in-u-s-manufacturing-amid-supply-chain-reshuffle-2025-04-15	TSMC	
+https://www.cnbc.com/2025/04/17/tsmc-chip-prices-rising-10percent-on-u-s.-geopolitical-tensions.html	TSMC	
+https://www.semiwiki.com/semiconductor-manufacturers/tsmc/330822-tsmcs-future-strategy-where-america-where-asia/	TSMC	
+https://www.bloomberg.com/news/articles/2025-04-14/tsmc-caught-between-u-s-and-china-in-tech-cold-war	TSMC	
+https://asia.nikkei.com/Business/Companies/TSMC-executives-discuss-us-investments-challenges-and-opportunities	TSMC	
+https://www.cnbc.com/2025/03/28/tsmc-strategic-supply-chain-diversification-strategy-amid-tensions.html	TSMC	
+https://www.forbes.com/sites/forbestechcouncil/2025/04/11/tsmc-s-role-in-the-global-tech-battle-between-china-and-the-us/	TSMC	
+https://www.semiconductors.org/sia-applauds-tsmcs-expanded-investment-in-u-s-semiconductor-manufacturing/ 	External 	
+https://www.supplychainbrain.com/articles/40256-watch-how-are-china-taiwan-tensions-threatening-global-semiconductor-supply	External 	
+https://www.linkedin.com/pulse/global-tariffs-reshape-semiconductor-industry-2025-impact-varun-goyal-63t9c 	External 	
+https://www.nytimes.com/2025/04/16/business/china-taiwan-tariffs-chips.html	External 	
+https://www.ainvest.com/news/navigating-geopolitical-risks-semiconductor-industry-strategies-investors-2504/	External 	
+https://www.linkedin.com/pulse/2025-semiconductor-industry-trends-resurgence-future-shayantani-ad9ac	External 	
+https://www.ainvest.com/news/asml-q1-2025-results-reflect-industry-challenges-strategic-growth-focus-2504/	External 	
+https://www.analyse.asia/the-china-taiwan-tech-giants-fragile-supply-chain-with-tim-culpan/	External 	
+https://procurementpro.com/9-key-threats-to-the-semiconductor-supply-chain/ 	External 	
+https://www.sourcengine.com/blog/semiconductor-industry-news	External 	
+https://moderndiplomacy.eu/2025/03/08/the-geopolitics-of-semiconductor-supply-chains/	External 	
+https://www.sdcexec.com/sourcing-procurement/manufacturing/article/22918774/a2-global-electronics-what-to-expect-in-the-2025-semiconductor-supply-chain	External 	
+https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html	External 	
+https://www.sciencedirect.com/science/article/abs/pii/S0308596125000485	External 	
+https://manufacturing-today.com/news/how-the-us-china-tech-tensions-are-reshaping-the-semiconductor-industry/	External 	
+https://manufacturing-today.com/news/how-taiwans-semiconductor-industry-prepares-for-a-potential-chinese-invasion/	External 	
+https://foreignpolicy.com/2021/02/16/semiconductors-us-china-taiwan-technology-innovation-competition/	External 	
+https://tdhj.org/blog/post/geopolitics-technology-taiwan/	External 	
+https://globaltaiwan.org/2025/03/how-taiwans-chip-industry-navigates-us-industrial-policy-and-export-controls/	External 	
+https://www.citigroup.com/global/insights/the-u-s-china-chip-war-who-dares-to-win	External 	
+https://www.zurich.com/commercial-insurance/sustainability-and-insights/commercial-insurance-risk-insights/what-lies-ahead-for-the-geopolitics-of-semiconductors	External 	
+https://mexicobusiness.news/cloudanddata/news/mexico-aims-lead-global-semiconductor-production-2025	External 	
+https://www.chinatalk.media/p/how-taiwan-sees-the-chip-war	External 	
+https://kleanindustries.com/insights/market-analysis-reports/insights-market-analysis-reports-china-rare-earth-export-ban-impact-tech-defense/ 	External 	
+https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions 	External 	
+URL	Company		
+C:\Users\nsrit\OneDrive\Documents\UVA\Classes\Fourth Year\thesis\pdf articles\2024_4Q_conference_eng.pdf	Samsung 		https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2024_4Q_conference_eng.pdf 
+C:\Users\nsrit\OneDrive\Documents\UVA\Classes\Fourth Year\thesis\pdf articles\The-US-China-Technology-War-and-Taiwans-Semiconductor-Role-Jiann-Chyuan-Wang-HCSS-2023.pdf	External 		https://hcss.nl/wp-content/uploads/2023/11/The-US-China-Technology-War-and-Taiwans-Semiconductor-Role-Jiann-Chyuan-Wang-HCSS-2023.pdf
+C:\Users\nsrit\OneDrive\Documents\UVA\Classes\Fourth Year\thesis\pdf articles\four-key-threats-to-semiconductor-supply-chains.pdf	External 		https://www.ajg.com/no/-/media/files/gallagher/global/insights/four-key-threats-to-semiconductor-supply-chains.pdf
+C:\Users\nsrit\OneDrive\Documents\UVA\Classes\Fourth Year\thesis\pdf articles\The-Semiconductor-Crisis.pdf	External 		https://www.bbvaresearch.com/wp-content/uploads/2023/12/The-Semiconductor-Crisis.pdf
+C:\Users\nsrit\OneDrive\Documents\UVA\Classes\Fourth Year\thesis\pdf articles\article-236.pdf	External 		https://apjjf.org/wp-content/uploads/2023/11/article-236.pdf
+C:\Users\nsrit\OneDrive\Documents\UVA\Classes\Fourth Year\thesis\pdf articles\The-Politics-of-Global-Production_Selden.pdf	External 		https://indiachinainstitute.org/wp-content/uploads/2015/10/The-Politics-of-Global-Production_Selden.pdf
+URL	Company	Start	End
+https://www.youtube.com/watch?v=Zq8S3Z_tFjM	Samsung 	0	100
+https://www.youtube.com/watch?v=6W6sCfVbbt0	NVIDIA 	0	100
+https://youtu.be/WJd5a10WESA?t=303 	TSMC 	5	7
+https://www.youtube.com/watch?v=bTaXzHc5N3I	External 	0	100
+https://www.youtube.com/watch?v=WHat_LYrpQE	TSMC 	0	100
+https://www.youtube.com/watch?v=UvnhLZi-f_A	ASML 	4	12
+https://www.youtube.com/watch?v=g0K9hfd570o	Foxconn	0	100
+https://www.youtube.com/watch?v=dlrAzENPNRw	ASML 	0	100
+https://www.youtube.com/watch?v=jt7atCIoV8g	ASML 	0	100
+https://www.youtube.com/watch?v=bTaXzHc5N3I	External 	0	100
+https://www.youtube.com/watch?v=foYWzdvajvo	External 	4	13
+https://www.youtube.com/watch?v=3mf2rSWjD1k	External 	0	100
+
