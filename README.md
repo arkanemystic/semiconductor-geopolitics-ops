@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 This repository explores how third‑party media outlets frame the semiconductor industry in light of geopolitical tensions between China and Taiwan. By scraping, cleaning, and analyzing article text, we apply sentiment scoring, keyword extraction, and network analyses to uncover narrative clusters, sentiment drivers, and strategic insights.
 
 Key objectives:
@@ -13,14 +13,14 @@ Key objectives:
 - Reveal which keywords most strongly influence sentiment
 - Compare framing across different companies or outlets
 
-## 🔍 Data Sources
+## Data Sources
 - **`sentiment_articles_output - Sheet5.csv`**: Core dataset containing:
   - `Company`, `URL`, `Sentiment` label, `Polarity Score`
   - Precomputed keyword mention counts (e.g. `taiwan`, `risk`, `innovation`, …)
 
 You can regenerate or expand this file by running the scraping pipeline (not included here).
 
-## 🛠️ Installation & Dependencies
+## Installation & Dependencies
 ```bash
 # Clone this repo
 git clone https://github.com/<your-org>/semiconductor-geopolitics-ops.git
@@ -42,7 +42,7 @@ networkx
 matplotlib
 ```
 
-## 🚀 Usage
+## Usage
 Ensure `sentiment_articles_output - Sheet5.csv` is in the project root.
 
 ### 1) Polarity Distribution
@@ -73,15 +73,15 @@ Scripts for these can be added in `analysis/`.
 
 *(See `docs/` for embedded figures and slide decks.)*
 
-## 🔮 Future Work
+## Future Work
 - Integrate **time‑series overlays** of major geopolitical events.
 - Expand scraping to include **social media** or **forum discussions**.
 - Use **topic modeling** (LDA) to uncover latent themes beyond predefined keywords.
 - Incorporate **entity resolution** to distinguish between different semiconductor firms (TSMC vs. Samsung vs. Intel).
 
-## 🤝 Contributing
+## Contributing
 Feel free to open issues or submit pull requests to improve analysis, add new visualizations, or refine data processing.
 
-## 📜 License
+## License
 This project is released under the MIT License. See [LICENSE](LICENSE.md) for details.
 
